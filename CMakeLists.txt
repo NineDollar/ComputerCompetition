@@ -16,3 +16,10 @@ add_executable(3200 3200.cpp)
 add_executable(3201 3201.cpp)
 add_executable(3202 3202.cpp)
 add_executable(3203 3203.cpp)
+add_executable(3246 3246.cpp)
+
+add_executable(648 648.cpp)
+add_executable(688 688.cpp)
+add_executable(806 806.cpp)
+
+
